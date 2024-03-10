@@ -23,7 +23,7 @@ def contatos():
 def user(username):
     return render_template('user.html', username=username)
 
-# COLOCAR SITE NO AR:
+# COLOCAR SITE NO AR: (Pesquisar hosts)
 
 
 if __name__ == "__main__":
